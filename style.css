@@ -1,0 +1,70 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.flex-row {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 12px;
+  padding: 10px;
+}
+.navbar {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
+.top-links > div {
+  border: 1px solid black;
+  padding: 10px;
+}
+.container {
+  width: 800px;
+  margin: auto;
+}
+h1 {
+  font-weight: lighter;
+  padding: 10px;
+  border: 1px solid black;
+  text-align: center;
+}
+.icon {
+  width: 30px;
+  height: auto;
+  margin: 3px;
+}
+.header {
+  font-size: 18px;
+}
+.heading-beneath-right {
+  justify-content: space-between;
+}
+.heading-beneath-left {
+  margin-top: 5px;
+  font-size: 20px;
+}
+.lorem-pic {
+  width: 100%;
+  height: 160px;
+}
+.main-body-bottom {
+  padding: 10px 20px;
+  border: 1px solid black;
+}
+.main-body-bottom h3 {
+  margin-left: 29px;
+}
+.main-body-bottom h4 {
+  margin-left: 39px;
+}
+.main-body-bottom .flex-row {
+  justify-content: space-between;
+}
+.footer img {
+  margin-top: 15px;
+  width: 350px;
+  height: auto;
+}
+.footer-right {
+  margin-top: 50px;
+}
+.footer-right a {
+  margin-right: 3px;
+}
